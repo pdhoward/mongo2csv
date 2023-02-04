@@ -1,0 +1,19 @@
+{
+  "name": "mongo2csv",
+  "version": "0.7.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0",
+    "npm": ">=3.0.0"
+  },
+  "scripts": {
+    "start": "nodemon ./index"
+  },
+  "dependencies": {
+    "csv": "^6.2.6",
+    "mongodb": "5.0.0"
+  },
+  "author": "Patrick Howard",
+  "license": "MIT",
+  "homepage": "http://www.xio.com"
+}
